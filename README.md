@@ -1,2 +1,4 @@
-# ProjectWIP
-A skeletal project with toy example demo
+# ProjectsWIP
+Miscellaneous side projects 
+
+#TODO: Write readme file
